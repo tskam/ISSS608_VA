@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "My Journey Through the Visual Analytics Jungle"
 description: |
-  Some additional details about the website
+  This website documents my learning journey of ISSS608 Visual Analytics and Applications. I hope you enjoy it!
 ---
 
 ```{r setup, include=FALSE}

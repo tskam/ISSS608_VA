@@ -2,19 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "My Journey Through the Visual Analytics Jungle",
+      "description": "This website documents my learning journey of ISSS608 Visual Analytics and Applications. I hope you enjoy it!",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-16T14:40:58+08:00"
+      "last_modified": "2022-04-19T10:32:37+08:00"
     },
     {
       "path": "index.html",
-      "title": "Evil Prof Course",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "My Journey Through the Visual Analytics Jungle",
+      "description": "This website documents my learning journey of ISSS608 Visual Analytics and Applications. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-04-16T14:56:32+08:00"
+      "last_modified": "2022-04-19T10:43:36+08:00"
     }
   ],
   "collections": []
