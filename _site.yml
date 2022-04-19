@@ -8,7 +8,7 @@ navbar:
     - text: "Take-home Exercise"
       menu:
       - text: "Take-home Exercise 1"
-        href: ""
+        href: "th_ex/th_ex1.html"
     - text: "DataVis Makeover"
       menu:
       - text: "DataVis Makeover 1"
