@@ -57,7 +57,7 @@ The code chunk below plot a bar chart by using geom_bar() of ggplot2.
 
 ```{r}
 ggplot(data = exam_data,
-       aes(x = RACE)) +
+       aes(x = GENDER)) +
   geom_bar()
 ```
 
