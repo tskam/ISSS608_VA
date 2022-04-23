@@ -12,7 +12,10 @@ output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE,
+                      eval = TRUE,
+                      warning = FALSE,
+                      message = FALSE)
 ```
 
 # Overview
@@ -45,6 +48,7 @@ The code chunk below import *Exam_data.csv* from the data folder into R by using
 ```{r}
 exam_data <- read_csv("data/Exam_data.csv")
 ```
+
 
 # A Simple Bar Chart
 
